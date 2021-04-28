@@ -1,0 +1,20 @@
+--2020-02-18 15:51:08--  https://www.dropbox.com/sh/gnzlsp3untx5y1y/AAC-tX-TH-PA1WYtTTGVROcVa/tps/ajuda?dl=0
+Resolvendo www.dropbox.com (www.dropbox.com)... 2620:100:601d:1::a27d:501, 162.125.5.1
+Conectando-se a www.dropbox.com (www.dropbox.com)|2620:100:601d:1::a27d:501|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 301 Moved Permanently
+Localização: /sh/raw/gnzlsp3untx5y1y/AAC-tX-TH-PA1WYtTTGVROcVa/tps/ajuda [redirecionando]
+--2020-02-18 15:51:09--  https://www.dropbox.com/sh/raw/gnzlsp3untx5y1y/AAC-tX-TH-PA1WYtTTGVROcVa/tps/ajuda
+Reaproveitando a conexão existente para [www.dropbox.com]:443.
+A requisição HTTP foi enviada, aguardando resposta... 302 Found
+Localização: https://uc4abaf9f1ed676e48c06313853f.dl.dropboxusercontent.com/zip_download_get/AVsrMqM_PDZucpjDol1YMjRdrwzVB0HuR6PJ2THKUEXWEslPaKSjaBX_ICdqS-OzqWA0J0TZ7DGUpbMooXNV9jwMXP2_tr46EE12DzRMNVIbPA [redirecionando]
+--2020-02-18 15:51:09--  https://uc4abaf9f1ed676e48c06313853f.dl.dropboxusercontent.com/zip_download_get/AVsrMqM_PDZucpjDol1YMjRdrwzVB0HuR6PJ2THKUEXWEslPaKSjaBX_ICdqS-OzqWA0J0TZ7DGUpbMooXNV9jwMXP2_tr46EE12DzRMNVIbPA
+Resolvendo uc4abaf9f1ed676e48c06313853f.dl.dropboxusercontent.com (uc4abaf9f1ed676e48c06313853f.dl.dropboxusercontent.com)... 2620:100:601d:6::a27d:506, 162.125.5.6
+Conectando-se a uc4abaf9f1ed676e48c06313853f.dl.dropboxusercontent.com (uc4abaf9f1ed676e48c06313853f.dl.dropboxusercontent.com)|2620:100:601d:6::a27d:506|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 14260 (14K) [application/zip]
+Salvando em: “ajuda?dl=0”
+
+ajuda?dl=0                            0%[                                                                  ]       0  --.-KB/s               ajuda?dl=0                          100%[=================================================================>]  13,93K  --.-KB/s    em 0s      
+
+2020-02-18 15:51:11 (213 MB/s) - “ajuda?dl=0” salvo [14260/14260]
+

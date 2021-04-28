@@ -1,0 +1,22 @@
+Ayla Secura raiz esq esq esq dir SIM 
+Chewbacca raiz esq dir esq esq esq NÇO
+Cliegg Lars raiz esq dir esq esq esq NÇO
+Darth Maul raiz esq dir esq esq esq NÇO
+Dormï¿½ raiz esq dir esq esq dir NÇO
+Greedo raiz esq dir esq dir esq NÇO
+Ki-Adi-Mundi raiz esq dir dir esq esq NÇO
+Lando Calrissian raiz esq dir dir SIM 
+Lobot raiz esq dir dir dir esq NÇO
+Luke Skywalker raiz esq dir dir dir esq NÇO
+Mace Windu raiz esq dir dir dir SIM 
+Padmï¿½ Amidala raiz dir esq esq esq dir NÇO
+Palpatine raiz dir esq esq esq dir NÇO
+Poe Dameron raiz dir esq esq esq dir NÇO
+R2-D2 raiz dir esq SIM 
+R4-P17 raiz dir esq dir esq esq NÇO
+R5-D4 raiz dir esq dir esq esq NÇO
+Ratts Tyerell raiz dir esq dir esq esq NÇO
+Saesee Tiin raiz dir esq dir dir SIM 
+San Hill raiz dir SIM 
+Shmi Skywalker raiz dir dir esq esq NÇO
+Wicket Systri Warrick raiz dir dir dir dir esq NÇO
